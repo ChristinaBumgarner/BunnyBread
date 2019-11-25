@@ -1,0 +1,39 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: red;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 5px solid red;
+  background-image: none;
+}
+
+#nutrition {background-color:
+    LightGoldenRodYellow;
+}
+
+#wg {
+  position: absolute;
+  top: 790px;
+    left: 1450px;
+}
+
+#coloring {background-color:
+    LightGoldenRodYellow;
+    
+}
+
+#recipes {background-color: 
+    lightgoldenrodyellow}
+
+
+
